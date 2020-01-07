@@ -1,2 +1,2 @@
 # HR-Employee-Management
-HR Employee Management
+This is an Employee management system developed using Java and sql, this project aims at making HR work easier and reliable, users will be able be to add,delete,update and edit employees, the application will record sick leaves, absentism and holidays taken by empployees. The application is also embeded with a payroll system, wiich prints payslips, records payments, record deductions and bonuses and also update salaries with percentage or initial figure.
